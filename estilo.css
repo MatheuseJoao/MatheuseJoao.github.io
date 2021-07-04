@@ -1,0 +1,42 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    color: white;
+    text-align: cente r;
+}
+
+p {
+    font-family: Tahoma;
+    font-size: 20px;
+}
+
+p {
+    color: whitesmoke
+}
+
+h2 {
+    color: green;
+    text-align: cente r;
+    font-family: Tahoma;
+    font-size: 20px;
+}
+
+h3 {
+    color: rgb(18, 134, 143);
+    text-align: cente r;
+    font-size: 20px;
+}
+
+h4 {
+    color: rgb(46, 122, 236);
+    text-align: cente r;
+    font-size: 20px;
+}
+
+h5 {
+    color: violet;
+    text-align: cente r;
+    font-size: 20px;
+}
